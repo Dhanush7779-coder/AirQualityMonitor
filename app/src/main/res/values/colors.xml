@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Theme Colors -->
+    <color name="primary">#1E88E5</color>
+    <color name="primary_dark">#1565C0</color>
+    <color name="primary_light">#E3F2FD</color>
+    <color name="accent">#00ACC1</color>
+    <color name="background">#F5F7FB</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="text_primary">#1A1C1E</color>
+    <color name="text_secondary">#5A6065</color>
+    <color name="divider">#E0E0E0</color>
+
+    <!-- UI Background and Overlay Colors -->
+    <color name="overlay_dark">#26000000</color>
+    <color name="warning_bg">#FFF3E0</color>
+    <color name="warning_stroke">#FFE0B2</color>
+    <color name="warning_title">#E65100</color>
+    <color name="warning_text">#EF6C00</color>
+    <color name="warning_btn">#EF6C00</color>
+
+    <!-- Mandatory AQI Category Dynamic Colors -->
+    <!-- 0-50: Good (Green) -->
+    <color name="aqi_good">#2E7D32</color>
+    <color name="aqi_good_light">#E8F5E9</color>
+
+    <!-- 51-100: Moderate (Yellow) -->
+    <color name="aqi_moderate">#F9A825</color>
+    <color name="aqi_moderate_light">#FFFDE7</color>
+
+    <!-- 101-150: Unhealthy for Sensitive Groups (Orange) -->
+    <color name="aqi_sensitive">#EF6C00</color>
+    <color name="aqi_sensitive_light">#FFF3E0</color>
+
+    <!-- 151-200: Unhealthy (Red) -->
+    <color name="aqi_unhealthy">#C62828</color>
+    <color name="aqi_unhealthy_light">#FFEBEE</color>
+
+    <!-- 201-300: Very Unhealthy (Purple) -->
+    <color name="aqi_very_unhealthy">#6A1B9A</color>
+    <color name="aqi_very_unhealthy_light">#F3E5F5</color>
+
+    <!-- 301-500: Hazardous (Maroon) -->
+    <color name="aqi_hazardous">#4A148C</color>
+    <color name="aqi_hazardous_light">#EDE7F6</color>
+    <color name="aqi_hazardous_maroon">#880E4F</color>
+</resources>

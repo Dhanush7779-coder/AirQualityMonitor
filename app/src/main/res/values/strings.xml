@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Air Quality Monitor</string>
+    <string name="app_tagline">Real-Time AQI &amp; Health Advisory</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="logout">Logout</string>
+    <string name="history">History</string>
+    <string name="refresh">Refresh</string>
+    <string name="current_aqi">Current AQI</string>
+    <string name="pollutants">Key Pollutants</string>
+    <string name="forecast_24h">Next 24 Hours Forecast</string>
+    <string name="save_reading">Save Reading to History</string>
+    <string name="saved_successfully">Reading saved to history!</string>
+    <string name="history_title">AQI Reading History</string>
+    <string name="no_history">No saved AQI records found.</string>
+    <string name="record_deleted">Record deleted.</string>
+    <string name="location_loading">Detecting current location…</string>
+    <string name="data_loading">Fetching live air quality data…</string>
+    <string name="location_permission_needed">Location permission is required to detect local air quality.</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="retry">Retry</string>
+</resources>
